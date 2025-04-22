@@ -1,9 +1,0 @@
-# Ignore auto-generated Unity Mac build folders
-mac/Grape.app/Contents/Frameworks/
-mac/Grape.app/Contents/MacOS/
-mac/Grape.app/Contents/PlugIns/
-mac/Grape.app/Contents/Resources/Data/
-mac/Grape.app/Contents/PkgInfo
-
-# Optional: keep Info.plist if customized
-# !mac/Grape.app/Contents/Info.plist
