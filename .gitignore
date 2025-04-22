@@ -1,0 +1,6 @@
+# Unity Mac build output inside mac/Grape.app
+mac/Grape.app/Contents/Frameworks/
+mac/Grape.app/Contents/MacOS/
+mac/Grape.app/Contents/PlugIns/
+mac/Grape.app/Contents/Resources/Data/
+mac/Grape.app/Contents/PkgInfo
