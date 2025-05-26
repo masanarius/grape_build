@@ -19,7 +19,7 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>0.1</string>
+    <string>1.0</string>
     <key>CFBundleSupportedPlatforms</key>
     <array>
       <string>MacOSX</string>
@@ -38,7 +38,7 @@
     <key>NSMainNibFile</key>
     <string>MainMenu</string>
     <key>NSMicrophoneUsageDescription</key>
-    <string>This app requires microphone access for voice chat functionality. </string>
+    <string>This app uses microphone for voice chat function</string>
     <key>NSPrincipalClass</key>
     <string>PlayerApplication</string>
     <key>UnityBuildNumber</key>
